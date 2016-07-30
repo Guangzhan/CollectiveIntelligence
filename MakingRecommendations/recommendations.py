@@ -10,3 +10,6 @@ critics = {'Lise Rose': {'Lady in the water': 2.5, 'Just my Luck': 3.0,
            'Michael Phillips': {'Lady in the water': 3.0, 'Snakes on a Plane': 3.0,
                                 'Superman Back': 3.5, 'The Night Listener': 4.0}
            }
+
+if __name__ == '__main__':
+    print(critics)
