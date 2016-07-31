@@ -3,7 +3,6 @@
 
 import math
 import numpy as np
-import pandas as pd
 critics = {'Lisa Rose': {'Lady in the water': 2.5, 'Snakes on a Plane': 3.5,
                          'Just my Luck': 3.0, 'Superman Back': 3.5,
                          'You, Me and Dupree': 2.5, 'The Night Listener': 3.0},
